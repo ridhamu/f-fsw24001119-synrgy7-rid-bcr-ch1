@@ -1,12 +1,9 @@
 const http = require("http");
 const { PORT = 8000 } = process.env;
 const hostName = "localhost";
-
 const fs = require("fs");
 const url = require("url");
 const path = require("path");
-
-// mime types
 const mime = require("mime-types");
 
 const PUBLIC_DIRECTORY = path.join(__dirname, "../public/");
@@ -41,5 +38,5 @@ const onRequest = (req, res) => {
 
 http.createServer(onRequest)
     .listen(PORT, () => {
-        console.log(`server sudah berjalan, silahkan buka ${hostName}:${PORT}`);
+        console.log(`Server listen on ${hostName}:${PORT}`);
     });
