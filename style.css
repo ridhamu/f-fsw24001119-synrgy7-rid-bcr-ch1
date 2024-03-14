@@ -14,10 +14,6 @@
   margin-left: 6.5rem;
 }
 
-/* .owl-carousel .owl-nav {
-
-} */
-
 .owl-carousel .owl-nav button.owl-next {
   margin-left: 1rem !important;
 }
@@ -28,4 +24,14 @@
 .owl-carousel .owl-nav button.owl-next:hover,
 .owl-carousel .owl-nav button.owl-prev:hover {
   background-color: transparent;
+}
+
+.accordion-button {
+  background-color: white;
+  border: 1px solid #d4d4d4 !important;
+}
+.accordion-button:not(.collapsed) {
+  border: 2px solid #d4d4d4;
+  background-color: white;
+  color: black;
 }
