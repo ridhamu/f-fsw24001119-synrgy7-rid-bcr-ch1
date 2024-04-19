@@ -1,3 +1,1 @@
-### BELUM RESPONSIF
-
-**_ AKSES MENGGUNAKAN FULL PAGE VIEW! _**
+silver chapter 2
