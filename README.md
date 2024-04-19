@@ -1,1 +1,0 @@
-Challange SYNRGY BATCH 7
