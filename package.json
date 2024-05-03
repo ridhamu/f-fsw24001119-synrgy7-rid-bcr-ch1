@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
   "main": "server/index.js",
-  "author": "Pahrurozi [pahrurozi17@gmail.com]",
+  "author": "ridha [ridhauwu@gmail.com]",
   "license": "MIT",
   "private": false,
   "scripts": {
